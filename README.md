@@ -1,1 +1,1 @@
-# java-socket-program
+# Java Socket Program (Calculator)
